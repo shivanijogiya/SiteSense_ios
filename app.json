@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "SiteSense",
+    "slug": "sitesense-mobile-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.sitesense.demo"
+    }
+  }
+}
