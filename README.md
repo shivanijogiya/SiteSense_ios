@@ -100,6 +100,4 @@ npx expo start --tunnel
 
 The architecture PDF proposes a production backend (REST/WebSocket, event bus, Postgres/PostGIS/TimescaleDB, Python intelligence services, simulator, etc.). This deliverable is deliberately the **mobile hackathon demo layer**, not the entire production backend. That keeps it runnable from one zip while still presenting the workflow and analytics convincingly.
 
-## No personal name included
-
-No user/team member name is embedded in the UI, package metadata, or documentation.
+## Shivani Jogiya
